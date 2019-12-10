@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="TREE">
+<text>
+<body>
+<div type="edition" xml:lang="quc" n="urn:cts:mayanLit:mul0001.mul001.p1">
+<div type="textpart" subtype="column" n="1">
+<p corresp="#p02">
+<lb n="3" rend="indent"/><hi rend="large">A</hi>quí escribiremos y empezaremos las
+<lb n="4"/>antiguas historias, su principio, y comien<pc> –</pc>
+<lb n="5"/>zo de todo lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> fue hecho en <rs ana="TINAMIT_KICHE">el pueblo de
+<lb n="6"/>el quiche</rs>, su pueblo de los indios quichees;
+<lb n="7"/>y de aqui tomaremos su ser declarado, y
+<lb n="8"/>manifestado, y su ser relatado, la esconde
+<lb n="9"/>dura, y aclaradura, por el <rs ana="TZAQOL">formador</rs>, y <rs ana="BITOL">cri<pc> –</pc>
+<lb n="10"/>ador</rs> <rs ana="ALOM">madre</rs>, y <rs ana="KAJOLOM">Padre</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> así se llaman, <rs ana="JUNAJPU_WUCH">hun
+<lb n="11"/>ahpu vuch</rs>. <rs ana="JUNAJPU_UTIW">hun ahpu vtiu</rs>. <rs ana="SAQI_NIM_AQ_SIS">Zaquinima ꜩÿz</rs>
+<lb n="12"/><rs ana="TEPEW_QUKUMATZ">tepeu. gucumaꜩ.</rs> <rs ana="UKUX_CHO">vguxcho</rs>. <rs ana="UKUX_PALO">vguxpalo</rs>. (nom<pc> –</pc>
+<lb n="13"/>bres , o atributos. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> significan; <rs ana="JUNAJPU_WUCH">vn tirador tacu<pc> –</pc>
+<lb n="14"/>azín</rs>. <rs ana="JUNAJPU_UTIW">vn tirador coyote</rs>. <rs ana="SAQI_NIM_AQ_SIS">blanco pizote</rs>. <rs ana="TEPEW_QUKUMATZ"><choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice>
+<lb n="15"/>fuerte culebra</rs>. <rs ana="UKUX_CHO">corazon de la laguna</rs>. <rs ana="UKUX_PALO">co<pc> –</pc>
+<lb n="16"/>razon de el mar</rs>.) <rs ana="AJRAXA_LAQ">el de el verde cagete</rs>, <rs ana="AJRAXA_TZEL">el
+<lb n="17"/>de la verde hícara</rs> son llamados. y junta
+<lb n="18"/>mente es dicho, y hablado de aquella <rs ana="IXMUKANE">abu<pc> –</pc>
+<lb n="19"/>ela</rs>, y <rs ana="XPIYAKOK">abuelo</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>sellamaban: <rs ana="XPIYAKOK">xpiyacoc</rs>, y
+<lb n="20"/><rs ana="IXMUKANE">xmucane</rs>. nombres propios. <rs ana="IXMUKANE">amparado<pc> –</pc>
+<lb n="21"/>res</rs>, y <rs ana="XPIYAKOK">cubridores</rs> <rs ana="IXMUKANE">dos vezes abuela</rs>, y <rs ana="XPIYAKOK">dos
+<lb n="22"/>vezes abuelo</rs> son dichos en las historias qui<pc> –</pc>
+<lb n="23"/>chees. <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">quando</expan></choice> comunicaron. todo con los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>hizi<pc> –</pc>
+<lb n="24"/>eron despues en el estado de la claridad
+<lb n="25"/>y en la palabra de clarídad. Esto escri<pc> –</pc>
+<lb n="26"/>uiremos ya en la ley de <rs ana="DIOS">Díos</rs>, en la cris<pc> –</pc>
+<lb n="27"/>tiandad, lo sacaremos <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> ya no ay lí<pc> –</pc>
+<lb n="28"/>bro comun, original donde verlo. dela
+<lb n="29"/>otra parte de el mar es venido donde se a
+<lb n="30"/>visto; <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> es dicho su ser enseñada nuestra
+<lb n="31"/>obscuridad con la míradura dela clara
+<lb n="32"/>vida. antigua mente avía libro original
+<lb n="33"/>q’se escrivío antigua mente; síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>es<pc> –</pc>
+<lb n="34"/>ta escondido <choice><abbr>alq’</abbr><expan instant="false">al que</expan></choice> lo míra, y <choice><abbr>alq’</abbr><expan instant="false">al que</expan></choice> lo piensa.
+<lb n="35"/>grande es su venida, y su ser enseñado.
+<lb n="36"/><choice><abbr>q</abbr><hi rend="superscript">o</hi><expan instant="false">quando</expan></choice> seacabo de formar todo el cielo, y la
+<lb n="37"/>tierra, su ser cuadrado, su ser repartido
+<lb n="38"/>en cuatro partes, su ser señalado, su ser
+<lb n="39"/>amojonado con estacas, su ser medido a
+<lb n="40"/>mecates, o cuerdas, y su ser estirada la
+<lb n="41"/>cuerda en el zielo, y en la tierra; <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>es di<pc> –</pc>
+<lb n="42"/>cho de cuatro esquinas, y cuatro lados
+<lb n="43"/>por el <rs ana="TZAQOL">formador</rs>, y <rs ana="BITOL">criador</rs>. su <rs ana="TZAQOL"><choice><abbr>M<hi rend="superscript">e.</hi></abbr><expan instant="false">Madre</expan></choice></rs> y su <rs ana="BITOL"><choice><abbr>P<hi rend="superscript">e.</hi></abbr><expan instant="false">Padre</expan></choice></rs>
+<lb n="44"/>de la vida. y de la creazíon. <choice><abbr>q<hi rend="superscript">e</hi></abbr><expan instant="false">que</expan></choice> da respira
+<lb n="45"/>zion, y resuello, paridos, y cuídados, de
+<lb n="46"/>la paz claridad de los híjos, pensador, y en<pc> –</pc>
+<pb corresp="xom-f01-s2"/>
+<lb n="1"/>tendedor detodahermosur a <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>ay en el zielo, ti<pc> –</pc>
+<lb n="2"/>erra, lagunas y mar.
+</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>
