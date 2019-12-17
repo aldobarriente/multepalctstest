@@ -10,7 +10,7 @@
   <dc:type>cts:textgroup</dc:type>
   <!-- Other properties to add? -->
   <members>
-    <collection path="./popolwuj/__capitains__.xml" identifier="urn:cts:latinLit:mul0001.lit001"/>
+    <collection path="./popolwuj/__capitains__.xml" identifier="urn:cts:mayanLit:mul0001.lit001"/>
   </members>
   <structured-metadata>
     <foaf:name>Mesoamerica</foaf:name>
