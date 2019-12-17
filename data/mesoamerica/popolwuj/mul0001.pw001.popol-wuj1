@@ -12,7 +12,7 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-            <refsDecl n="capitains" xml:base="urn:cts:mayanLit:mul0001.pw001.popolwuj">
+            <refsDecl n="capitains" xml:base="urn:cts:mayanLit:mul0001.pw001.popol-wuj1">
                 <cRefPattern corresp="2" n="line"
                              matchPattern=""
                              replacementPattern="">
@@ -33,9 +33,9 @@
             </langUsage>
         </profileDesc>
     </teiHeader>
-<text n="urn:cts:mayanLit:mul0001.mul001.popolwuj1">
+<text n="urn:cts:mayanLit:mul0001.mul001.popol-wuj1">
     <body>
-        <div type="edition" xml:lang="quc" n="urn:cts:mayanLit:mul0001.mul001.p1">
+        <div type="edition" xml:lang="quc" n="urn:cts:mayanLit:mul0001.mul001.popol-wuj1">
             <div type="textpart" subtype="paragraph" n="2">
                 <p xml:id="p02">
                 <lb n="3" rend="indent"/><hi rend="large">V</hi>aral xchicaꜩibah vi xchica<pc> –</pc>
