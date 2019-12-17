@@ -1,0 +1,18 @@
+<?xml-model href="../../capitains.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<collection
+  xmlns="http://purl.org/capitains/ns/1.0#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cts="http://chs.harvard.edu/xmlns/cts"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <identifier>urn:cts:mayanLit:mul0001</identifier>
+  <dc:title xml:lang="eng">Popol Wuj</dc:title>
+  <dc:description xml:lang="eng">K'iche' Authors</dc:description>
+  <dc:type>cts:textgroup</dc:type>
+  <!-- Other properties to add? -->
+  <members>
+    <collection path="./popolwuj/__capitains__.xml" identifier="urn:cts:latinLit:mul0001.lit001"/>
+  </members>
+  <structured-metadata>
+    <foaf:name>Mesoamerica</foaf:name>
+  </structured-metadata>
+</collection>
