@@ -1,0 +1,23 @@
+<?xml-model href="../../../capitains.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<collection
+  xmlns="http://purl.org/capitains/ns/1.0#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cts="http://chs.harvard.edu/xmlns/cts">
+  <identifier>urn:cts:mayanLit:mul0001.lit001</identifier>
+  <parent>urn:cts:mayanLit:mul0001</parent>
+  <dc:title xml:lang="eng">Popol Wuj</dc:title>
+  <dc:description xml:lang="eng">The Maya K'iche' book of creation</dc:description>
+  <dc:type>cts:work</dc:type>
+  <!-- And any other properties from there. The more the merrier -->
+  <members>
+    <collection readable="true" path="./mul0001.lit001.popol-wuj1.xml">
+      <identifier>urn:cts:mayanLit:mul0001.lit001.popol-wuj1</identifier>
+      <parent>urn:cts:mayanLit:mul0001.lit001</parent>
+      <dc:title xml:lang="quc">Popol Wuj</dc:title>
+      <dc:description xml:lang="eng">Edition by the Multepal project at the University of Virginia</dc:description>
+      <dc:language>quc/spa</dc:language>
+      <dc:type>cts:edition</dc:type>
+    </collection>
+  </members>
+</collection>
